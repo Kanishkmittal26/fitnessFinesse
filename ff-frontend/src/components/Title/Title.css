@@ -1,0 +1,16 @@
+.quote {
+    color: pink !important;
+    padding: 60px 50px;
+    text-align: left;
+  }
+  
+  .hello{
+    height: 75px;
+    width: 100%;
+    color: pink;
+    filter: blur(8px);
+  }
+  .hello:hover{
+    filter: blur(0px);
+  }
+  

@@ -1,0 +1,10 @@
+body {
+    background-color: black !important;
+  }
+  
+  .background-image{
+    background: linear-gradient(black, transparent 100%),
+    linear-gradient(0deg, #fff, transparent 30%),url('./Title-Image.jpg') no-repeat center;
+    background-size: cover;
+  }
+  

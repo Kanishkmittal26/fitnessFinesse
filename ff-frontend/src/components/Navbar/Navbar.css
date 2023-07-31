@@ -1,0 +1,37 @@
+.logo {
+    width: 33%;
+    display: inline-block;
+  }
+  
+  h3 {
+    position: absolute;
+    top: 4px;
+    left: 85px;
+    display: inline-block;
+  }
+  
+  a {
+    text-decoration: none !important;
+    color: rgb(255, 255, 255) !important;
+  }
+  
+  /* image css */
+  /* .logo-navbar {
+      height: 50px;
+    } */
+  
+  li:has(a) {
+    text-align: center;
+    width: 25%;
+    display: inline-block;
+  }
+  
+  .userIcon {
+    position: absolute;
+    top: 4px;
+    right: 85px;
+  }
+  
+  a:has(img) {
+    color: yellow;
+  }
